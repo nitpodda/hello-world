@@ -6,3 +6,6 @@ maven build activity
 copy the artifacts to dockerhost
 build the image out of the docker file
 Finally this is the container.
+
+
+Now we are building the docker images.
